@@ -1,0 +1,47 @@
+h1{
+    color: #06045a;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    word-spacing: 10px;
+    text-decoration: overline underline;
+}
+
+a{
+    display: block;
+}
+
+body{
+    background-color: rgb(116, 189, 214);
+    width: 1000px;
+    margin: 0px auto;
+    border: 1px solid black;
+    padding: 1em; 
+}
+
+p, li{
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+}
+img{
+    border-radius: 10px;
+    border: 6px solid rgb(0, 0, 0);
+}
+p{
+    font-family: "Verdana";
+}
+
+.particion{
+    column-count: 2;
+    font-family: "Lucida Handwriting", cursive;
+}
+.letra{
+    font-family: "Courier New", 'Courier New', Courier, monospace;
+    padding: 1em;
+    font-size: 18px;
+    vertical-align: bottom;
+}
+
+
+ 
+    
